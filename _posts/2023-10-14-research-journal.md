@@ -9,7 +9,7 @@ tags:
 coverImage: "/images/pexels-photo-7964376-1.jpeg"
 ---
 
-*This article was originally posted on my WordPress site, with slight improvements*
+*This article was originally posted on my WordPress site (now replaced by this Github Page) with slight improvements*
 
 The first time I came across the concept 'research journal' was at my first meeting with my PhD supervisors. At that time, I was told to start reading some literature about my research topic, and it would be better to keep a record of what I had read and what thoughts I had. I happily took the suggestion, as I was a person who is so fond of writing diaries - at the end of the day, the most comforting thing for me is to sit in front of my computer, play some music, open the diary app, and just write down whatever I was thinking at that moment. It can be a record of what I did, what I felt, who I talked to, things I need to do tomorrow - it's quite illogical, and it doesn't have to be, because it's my personal diary and I don't have to show it to anyone.
 

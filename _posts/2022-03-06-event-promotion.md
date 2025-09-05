@@ -6,10 +6,10 @@ categories:
   - "resources"
 tags: 
   - "digital-skills"
-coverImage: "/images/pexels-photo-3184454.jpeg"
+coverImage: "/images/22-03-06.jpeg"
 ---
 
-*This article was originally posted on my WordPress site*
+*This article was originally posted on my WordPress site, now replaced by this Github Page*
 
 Probably you are thinking of hosting a conference, webinar, or workshop, but not sure how to promote an event or what tools to use. This blog will list several popular tools, ranging from easy-to-use ones with built-in templates, to those that require a little bit more time and energy. But first, there are some principles for event advertising and choosing tools.
 
@@ -23,7 +23,7 @@ An educational event can be different from a society event, concert, sports game
 
 <figure>
 
-![](/images/pexels-photo-976866.jpeg)
+![](/images/22-03-06-1.jpeg)
 
 <figcaption>
 
@@ -39,7 +39,7 @@ Photo by Josh Sorenson on [Pexels.com](https://www.pexels.com/photo/group-of-peo
 
 * * *
 
-![](/images/pexels-photo-7394724.jpeg)
+![](/images/22-03-06-2.jpeg)
 
 ## Useful tools, divided by format
 
@@ -55,7 +55,7 @@ The simplest way to promote your event is through texts - one or several paragra
 
 <figure>
 
-![](/images/pexels-photo-193003.jpeg)
+![](/images/22-03-06-3.jpeg)
 
 <figcaption>
 
@@ -71,7 +71,7 @@ If sending out newsletters is the only function you need, these two are quite ea
 
 <figure>
 
-![](/images/news-newsletter-newspaper-information-158651.jpeg)
+![](/images/22-03-06-4.jpeg)
 
 <figcaption>
 
@@ -93,7 +93,7 @@ The University of Edinburgh provides Pro account for Spark. And you can use the 
 
 <figure>
 
-![](/images/image.png)
+![](/images/explore-edinburgh.png)
 
 <figcaption>
 
@@ -113,7 +113,7 @@ Some of you might have seen a whiteboard animation before (or if haven't, here i
 
 <figure>
 
-![](/images/pexels-photo-1181311.jpeg)
+![](/images/22-03-06-5.jpeg)
 
 <figcaption>
 
@@ -125,7 +125,7 @@ Photo by Christina Morillo on [Pexels.com](https://www.pexels.com/photo/white-dr
 
 * * *
 
-![](/images/pexels-photo-2624031.jpeg)
+![](/images/22-03-06-6.jpeg)
 
 So these are some of the tools that I find interesting for promoting an educational event. I should say I haven't tested them all myself because of time and budget, but at least I hope it can tell you where to go if you want some creative ways for advertising.
 
