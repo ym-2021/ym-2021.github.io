@@ -6,7 +6,7 @@ categories:
   - "research"
 tags: 
   - "writing"
-coverImage: "/images/pexels-photo-7964376-1.jpeg"
+coverImage: "/images/23-10-14.jpeg"
 ---
 
 *This article was originally posted on my WordPress site (now replaced by this Github Page) with slight improvements*
@@ -15,7 +15,7 @@ The first time I came across the concept 'research journal' was at my first meet
 
 This notion also applies to a research diary/journal - it's completely our own, and whatever we pour down into it, it is fine. However, I got confused after a few weeks. I kept thinking that I need to submit some writing to my supervisors now and then, so should I write as polish/logic as possible in the research journal? Should I maintain critical thinking all the way down? To be honest, that was a really big obstacle for me to start building a writing habit. It might be the same for other types of writing as well - we can't stop thinking who will be reading this page, and how they will comment (or criticise! that's more often for me). Keeping those voices in mind really doesn't help; the only thing they do is make us procrastinate, and until the very last minute, we finally start producing something, not of high quality, though.
 
-![](/images/pexels-photo-210661.jpeg)
+![](/images/23-10-14-1.jpeg)
 *Photo by picjumbo.com on [Pexels.com](https://www.pexels.com/photo/person-holding-blue-ballpoint-pen-writing-in-notebook-210661/)*
 
 For me, I think the most important thing is to change our attitudes toward writing. Writing is NOT JUST writing. It consisted of many stages - planning, writing the first draft, writing the second draft, editing, proofreading, proofreading again, etc. There is really no 'perfect' writing, but a 'finished' writing is better than nothing at all, and therefore keeping all those 'perfect' or 'near perfect' ideas in mind and waiting for them to evolve to a great masterpiece rather than putting them on a page is nothing.
@@ -28,7 +28,7 @@ Recently, I was reading [Writing Your Dissertation in Fifteen Minutes a Day](htt
 
 2. **Reflections and connections may intrigue new ideas.** Usually people are not good at remembering everything, and that's why we need to put it down on paper, or a digital writing space. I like reading what I wrote before, occasionally, which allows me to generate new connections and even new ideas. For example, when I was thinking about one question and got stuck, I might go back to previous writing to see if some of those thoughts could help explain my confusion. It does not always work, but in those times that it does work, I feel I'm pushing the boundary of my own knowledge system.
 
-![](/images/pexels-photo-6214934.jpeg)
+![](/images/23-10-14-2.jpeg)
 *Photo by cottonbro studio on [Pexels.com](https://www.pexels.com/photo/books-on-the-bookshelf-6214934/)*
 
 ---
@@ -46,6 +46,6 @@ So what do I write in a research journal/diary?
 This list is absolutely not exhaustive; basically everything you think might be useful could be put into the research journal. The key thing is to try to remove our perceived difficulty of writing, and just get started.
 
 
-![](/images/pexels-photo-265152.jpeg)
+![](/images/23-10-14-3.jpeg)
 *Photo by Pixabay on [Pexels.com](https://www.pexels.com/photo/black-and-white-browsing-business-coffee-265152/)*
 

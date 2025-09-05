@@ -13,7 +13,7 @@ coverImage: "/images/22-03-06.jpeg"
 
 Probably you are thinking of hosting a conference, webinar, or workshop, but not sure how to promote an event or what tools to use. This blog will list several popular tools, ranging from easy-to-use ones with built-in templates, to those that require a little bit more time and energy. But first, there are some principles for event advertising and choosing tools.
 
-![](/images/pexels-photo-7657599.jpeg)
+![](/images/22-03-06-7.jpeg)
 
 ## Principles of promoting an educational event
 
