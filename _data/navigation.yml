@@ -1,19 +1,25 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  # - title: "About Me"
+  #  url: "/#about-me"
 
   - title: "Education"
     url: "/#education"
 
-  - title: "Research Experience"
+  - title: "Research"
     url: "/#research-experience"
 
-  - title: "Teaching Experience"
+  - title: "Teaching"
     url: "/#teaching-experience"
 
-  - title: "Other Experience"
+  - title: "Other"
     url: "/#other-experience"
+
+  - title: "Presentations"
+    url: "/#presentations"
+
+  - title: "Honours"
+    url: "/#honours"
 
   - title: "Blog"
     url: "/blog.html"
