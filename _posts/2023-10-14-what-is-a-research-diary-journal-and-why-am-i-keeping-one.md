@@ -6,7 +6,7 @@ categories:
   - "research"
 tags: 
   - "writing"
-coverImage: "/image/pexels-photo-7964376-1.jpeg"
+coverImage: "/images/pexels-photo-7964376-1.jpeg"
 ---
 
 *This article was originally posted on my WordPress site, with slight improvements*
