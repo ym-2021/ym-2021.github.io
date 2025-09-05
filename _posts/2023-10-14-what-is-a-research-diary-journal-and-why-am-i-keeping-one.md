@@ -1,11 +1,12 @@
 ---
+layout: post
 title: "What is a research diary/journal and why am I keeping one"
 date: 2023-10-14
 categories: 
   - "research"
 tags: 
   - "writing"
-coverImage: "image/pexels-photo-7964376-1.jpeg"
+coverImage: "/image/pexels-photo-7964376-1.jpeg"
 ---
 
 *This article was originally posted on my WordPress site, with slight improvements*
