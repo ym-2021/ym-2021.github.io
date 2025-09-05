@@ -74,50 +74,51 @@ My research interest includes neural machine translation and computer vision. I 
 # 💬 Presentations {#presentations}
 ## Conferences
 - *2025.09*, 'Addressing the Implementation of UN SDGs from Active Civil Society Engagement'
-  The Scotland Forum 2025, Edinburgh
+  The Scotland Forum 2025, Edinburgh  
   *Speaking on behalf of Dr Gari Donn, Executive Director of UNHS*
-- *2025.06*, 'Student perspectives of Model United Nations (MUN) in relation to Global Citizenship Education (GCE)'
+- *2025.06*, 'Student perspectives of Model United Nations (MUN) in relation to Global Citizenship Education (GCE)'  
   Academic Network of Global Education and Learning (ANGEL) Conference, Berlin
-- *2024.11*, '(Global) Citizenship Education in Model United Nations'
+- *2024.11*, '(Global) Citizenship Education in Model United Nations'  
   Scottish Education Research Association (SERA) Conference, Dundee
-- *2024.09*, 'Exploring discourses of citizenship through ways of participation in Model UN activities'
+- *2024.09*, 'Exploring discourses of citizenship through ways of participation in Model UN activities'  
   British Education Research Association (BERA) Conference, Manchester
-- *2023.08*, 'Global Citizenship Education Embedded in Model United Nations (MUN) activities – A Case Study of a Chinese Secondary School'
+- *2023.08*, 'Global Citizenship Education Embedded in Model United Nations (MUN) activities – A Case Study of a Chinese Secondary School'  
   BAICE Early Career Researchers Conference, online
-- *2023.04*, 'Global Citizenship Education Embedded in Model UNs: How Does It Work in China?' 
+- *2023.04*, 'Global Citizenship Education Embedded in Model UNs: How Does It Work in China?'  
   New voices in global education & learning seminar by ANGEL (Academic Network of Global Education and Learning), online
-- *2023.02*, 'Citizenship Education in Model United Nations: Does It Work in China?' (poster) 
+- *2023.02*, 'Citizenship Education in Model United Nations: Does It Work in China?' (poster)  
   Comparative and International Education Society (CIES) Conference, online
-- *2022.09*, 'Implementing Model United Nations into local contexts: different conceptualisation of Global Citizenship Education'
+- *2022.09*, 'Implementing Model United Nations into local contexts: different conceptualisation of Global Citizenship Education'  
   British Association of International and Comparative Education (BAICE) Conference, Edinburgh
-- *2022.07*, 'Global Citizenship Education in Model United Nations: Does it work in China?'
+- *2022.07*, 'Global Citizenship Education in Model United Nations: Does it work in China?'  
   The 10th European Conference on Education (ECE), London
-- *2022.06*, 'Do Model United Nations work in China? Looking at Global Citizenship Education from the perspective of Tianxia (天下)'
-  British Postgraduates in Chinese Studies (BPCS) Annual Conference, Oxford
+- *2022.06*, 'Do Model United Nations work in China? Looking at Global Citizenship Education from the perspective of Tianxia (天下)'  
+  British Postgraduates in Chinese Studies (BPCS) Annual Conference, Oxford  
+
 <!--
 - Model United Nations in relation to Global Citizenship Education in China, Interweaving Conference hosted by MHSES, Edinburgh UK, May 2022
 - Global Citizenship Education in Model United Nations: Does it work in China? The 9th Education Studies Conference hosted by Warwick University, Online, Apr 2022 
 -->
 
 ## Seminars, invited talks, and workshops
-- *2025.06*, Final Panel: Reflections & Importance of Research for Policy ([video](https://www.youtube.com/watch?v=cBb8tgZ5Dzs&t=1s))
+- *2025.06*, Final Panel: Reflections & Importance of Research for Policy ([video](https://www.youtube.com/watch?v=cBb8tgZ5Dzs&t=1s))  
   Academic Network of Global Education and Learning (ANGEL) Conference, Berlin
-- *2024.10*, Promoting Model United Nations in universities and schools ([slides](/files/24-10-18-UNANI-slides.pdf))
+- *2024.10*, Promoting Model United Nations in universities and schools ([slides](/files/24-10-18-UNANI-slides.pdf))  
   United Nations Association Northern Ireland, Belfast
-- *2024.06*, Prepatory workshop for MUN Conference
+- *2024.06*, Prepatory workshop for MUN Conference  
   Aimed at Scottish students; organised by UNHS, Edinburgh
-- *2024.02*, Global Citizenship Education embedded in Model United Nations (MUN) activities
+- *2024.02*, Global Citizenship Education embedded in Model United Nations (MUN) activities  
   British Postgraduate Network of Chinese Studies (BPCS) Fellowship Seminar, online
-- *2023.11*, What I wish I knew – perspectives from current PhD students
+- *2023.11*, What I wish I knew – perspectives from current PhD students  
   Scottish Graduate School of Social Science (SGSSS) Induction, Stirling
-- *2023.10*, Researchers Realities Q&A
+- *2023.10*, Researchers Realities Q&A  
   Part of the *Getting Started with PGR Degree* course; organised by Institute for Academic Development UoE, online
-- *2022.11*, Educational benefits of Model United Nations
+- *2022.11*, Educational benefits of Model United Nations  
   Aimed at Scottish teachers; organised by UNHS, online
-- *2022.05*, Working with supervisors on MSc Dissertation – Alumni perspectives
-  Practice worth sharing sessions; organised by MHSES, online
+- *2022.05*, Working with supervisors on MSc Dissertation – Alumni perspectives  
+  Practice worth sharing sessions; organised by MHSES, online  
 
-<!-->
+<!--
 •	Researchers realities Q&A, IAD, Oct 2023 & Feb 2024
 •	PGR seminar about doing fieldwork, MHSES
 •	Educational benefits of Model United Nations, UNHS MUN workshop, online, Nov 2022
@@ -139,6 +140,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2018*, Outstanding Graduate of Beijing, awarded by Ministry of Education of China
 - *2016*, Overseas exchange programme to Canada, funded by China Scholarship Council
 - *2016*, China National Scholarship 
+
 
 <!--
 # 📝 Publications 
