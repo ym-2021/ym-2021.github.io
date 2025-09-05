@@ -2,6 +2,8 @@
 layout: post
 title: "Strategies and tools for promoting an educational event"
 date: 2022-03-06
+categories: 
+  - "resources"
 tags: 
   - "digital-skills"
 coverImage: "/images/pexels-photo-3184454.jpeg"
