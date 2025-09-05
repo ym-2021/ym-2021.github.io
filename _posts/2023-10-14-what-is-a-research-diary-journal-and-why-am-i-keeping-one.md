@@ -5,16 +5,16 @@ categories:
   - "research"
 tags: 
   - "writing"
-coverImage: "pexels-photo-7964376-1.jpeg"
+coverImage: "image/pexels-photo-7964376-1.jpeg"
 ---
+
+*This article was originally posted on my WordPress site*
 
 The first time I came across the concept 'research journal' is at my first meeting with my PhD supervisors. At that time, I was told to start reading some literature about my research topic, and I'd better keep a record of what I had read and what thoughts I have. I happily took the suggestion, as I was a person who is so fond of writing diaries - at the end of the day, the most comforting thing for me is to sit in front of my computer, play some music, open the diary app, and just write down whatever I was thinking at that moment. It can be a record of what I did, what I felt, who I talked to, things I need to do tomorrow - it's quite illogical, and it doesn't have to be, because it's my personal diary and I don't have to show it to anyone.
 
 This notion also applies to a research diary/journal - it's completely our own, and whatever we pour down into it, it is fine. However, I got confused after a few weeks. I kept thinking that I need to submit some writing to my supervisors every now and then, so should I write as polish/logic as possible in the research journal? Should I maintain critical thinking all the way down? To be honest, that was a really big obstacle for me to start building a writing habit. It might be the same for other types of writing as well - we can't stop thinking who will be reading this page, and how they will comment (or criticise! that's more often for me). Keeping those voices in mind really doesn't help, the only thing they do is make us procrastinate, and until the very last minute we finally start produce something, not of high quality though.
 
-<figure>
-
-![](images/pexels-photo-210661.jpeg)
+![/images/pexels-photo-210661.jpeg]
 
 <figcaption>
 
