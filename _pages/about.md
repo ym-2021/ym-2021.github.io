@@ -27,14 +27,14 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-# 📖 Education
+# 📖 Education {#education}
 - *2021 - 2025 (now)*, PhD in Education, University of Edinburgh. 
 - *2018 - 2019*, MSc in Education (Comparative Education and International Development), University of Edinburgh.
 - *2014 - 2018*, University of International Business and Economics, Beijing
   -   BA in Translation and Interpretation
   -   BEcon in Finance
 
-# 💻 Research Experience
+# 💻 Research Experience {#research-experience}
 - *2021 - 2025*, PhD Thesis: (Global) Citizenship Education Embedded in Model United Nations Activities - An Ethnographic Case Study of a Secondary School in China
 
 - *2024 - 2025*, Research Assistant, College of Arts, Humanities and Social Sciences (CAHSS) Research Office
@@ -49,7 +49,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - *2018 - 2019*, Master's Dissertation: Implementing Model United Nations into Curriculum for Excellence
 
-# 👩🏻‍🏫 Teaching Experience
+# 👩🏻‍🏫 Teaching Experience {#teaching-experience}
 - *2023 - 2025 (now)*, Postgradutate Teaching Assistant, Edinburgh Futures Institute, UoE
   -   *Knowledge Integration and Project Planning (MSc Education Futures)*
   -   *Culture, Heritage and Learning Futures*
@@ -61,7 +61,7 @@ My research interest includes neural machine translation and computer vision. I 
   -   Master's dissertations
 - *2020 - 2021*, English as a Second Language (ESL) Teacher for IELTS
 
-# 🔖 Other Professional and Administrative Experience
+# 🔖 Other Professional and Administrative Experience {#other-experience}
 - *2021 - 2025 (now)*, Coordinator of Model United Nations Team, United Nations House Scotland
 - *2022.03 - 2022.07*, Building Communities PhD Intern, UoE
 

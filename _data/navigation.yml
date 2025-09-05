@@ -4,16 +4,16 @@ main:
     url: "/#about-me"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/#education"
 
   - title: "Research Experience"
-    url: "/#-research-experience"
+    url: "/#research-experience"
 
   - title: "Teaching Experience"
-    url: "/#-teaching-experience"
+    url: "/#teaching-experience"
 
   - title: "Other Experience"
-    url: "/#-other-professional-and-administrative-experience"
+    url: "/#other-experience"
 
   - title: "Blog"
     url: "/blog.html"
