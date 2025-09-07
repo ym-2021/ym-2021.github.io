@@ -27,6 +27,13 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
+# 👋 About me
+Hi there! I’m a PhD student in Education at the University of Edinburgh, exploring (Global) Citizenship Education in Model United Nations (MUN). My journey with MUN started in secondary school - I’ve been a delegate, an organiser, a teacher, and now a researcher.  
+
+I’m interested in citizenship education, global/international education, and qualitative approaches. My master’s dissertation looked at MUN in Scotland and the Curriculum for Excellence, through a placement at United Nations House Scotland (UNHS). I’ve since stayed involved with UNHS, helping to bring MUN into more primary and secondary schools so that these opportunities reach students who may previously have had limited exposure to extracurricular programmes like MUN.  
+
+Across all these, my concern is how educational initiatives intersect with broader questions of inclusion and participation, which is a thread tying all my work, research, education and personal life. 
+
 # 📖 Education {#education}
 - *2021 - 2025 (now)*, PhD in Education, University of Edinburgh. 
 - *2018 - 2019*, MSc in Education (Comparative Education and International Development), University of Edinburgh.
