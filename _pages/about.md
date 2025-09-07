@@ -73,7 +73,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💬 Presentations {#presentations}
 ## Conferences
-- *2025.09*, 'Addressing the Implementation of UN SDGs from Active Civil Society Engagement'
+- *2025.09*, 'Addressing the Implementation of UN SDGs from Active Civil Society Engagement'  
   The Scotland Forum 2025, Edinburgh  
   *Speaking on behalf of Dr Gari Donn, Executive Director of UNHS*
 - *2025.06*, 'Student perspectives of Model United Nations (MUN) in relation to Global Citizenship Education (GCE)'  
