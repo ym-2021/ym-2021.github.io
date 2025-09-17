@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 👋 About me
-Hi there! I’m a PhD student in Education at the University of Edinburgh, exploring (Global) Citizenship Education in Model United Nations (MUN). My journey with MUN started in secondary school - I’ve been a delegate, and now an organiser-teacher-researcher.  
+Hi there! I’m a PhD candidate in Education at the University of Edinburgh, exploring (Global) Citizenship Education in Model United Nations (MUN). My journey with MUN started in secondary school - I’ve been a delegate, and now an organiser-teacher-researcher.  
 
 I’m interested in citizenship education, global/international education, and qualitative approaches. My master’s dissertation looked at MUN in Scotland and the Curriculum for Excellence, through a placement at United Nations House Scotland (UNHS). I’ve since stayed involved with UNHS, helping to bring MUN into more primary and secondary schools so that these opportunities reach students who may previously have had limited exposure to extracurricular programmes like MUN.  
 
@@ -70,7 +70,7 @@ Across all these, my concern is how educational initiatives intersect with broad
 
 # 🔖 Other Professional and Administrative Experience {#other-experience}
 - *2021 - 2025 (now)*, Coordinator of Model United Nations Team, [United Nations House Scotland](https://www.unhscotland.org.uk/)
-    - Organised Model UN conferences for primary and secondary school students in Scotland, in Jun 2021, Jun 2022, Jun 2024, Feb 2025, Sep 2025 (ongoing)
+    - Organised Model UN conferences for primary and secondary school students in Scotland, in Jun 2021, Jun 2022, Jun 2024, Feb 2025, Sep 2025
     - Moderated Model UN workshops for teachers and students, in May 2022, Nov 2022, Nov 2023, May 2024
     - Supported the establishment of MUN clubs in various schools in/around Edinburgh
 - *2022 - 2024*, Associate Officers for Student Engagement (formerly Postgraduate Research Student representative), [Scottish Graduate School of Social Sciences (SGSSS)](https://www.sgsss.ac.uk/)
@@ -80,6 +80,8 @@ Across all these, my concern is how educational initiatives intersect with broad
 
 # 💬 Presentations {#presentations}
 ## Conferences
+- *2025.09*, 'Writing as a reflexive practice across boundaries'  
+  British Association of International and Comparative Education (BAICE) ECR Conference, online
 - *2025.09*, 'Addressing the Implementation of UN SDGs from Active Civil Society Engagement'  
   The Scotland Forum 2025, Edinburgh  
   *Speaking on behalf of Dr Gari Donn, Executive Director of UNHS*
