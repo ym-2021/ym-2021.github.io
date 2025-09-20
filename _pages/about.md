@@ -27,8 +27,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
+# ✨ Why this page? 
+I built this page to record and reflect on my academic (and sometimes personal) journey. It is not meant to be a competition with others, but it's a reminder to myself that every step and experience matters. At the same time, I hope it also offers a glimpse into my work and interests for those who may be curious.
+
 # 👋 About me
-Hi there! I’m a PhD candidate in Education at the University of Edinburgh, exploring (Global) Citizenship Education in Model United Nations (MUN). My journey with MUN started in secondary school - I’ve been a delegate, and now an organiser-teacher-researcher.  
+Hi there! I’m Yuemiao, a PhD candidate in Education at the University of Edinburgh, exploring (Global) Citizenship Education in Model United Nations (MUN). My journey with MUN started in secondary school - I’ve been a delegate, and now an organiser-teacher-researcher.  
 
 I’m interested in citizenship education, global/international education, and qualitative approaches. My master’s dissertation looked at MUN in Scotland and the Curriculum for Excellence, through a placement at United Nations House Scotland (UNHS). I’ve since stayed involved with UNHS, helping to bring MUN into more primary and secondary schools so that these opportunities reach students who may previously have had limited exposure to extracurricular programmes like MUN.  
 
