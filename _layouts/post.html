@@ -15,6 +15,16 @@ layout: default
   </figure>
   {% endif %}
 
+<style>
+  .post-content img {
+    display: block;
+    max-width: 500px;   /* 桌面端最多 500px 宽 */
+    width: 100%;        /* 默认占满容器，保证在手机上自适应 */
+    height: auto;       /* 保持比例 */
+    margin: 1rem auto;  /* 居中并上下留白 */
+  }
+</style>
+
   <div class="post-content">
     {{ content }}
   </div>
