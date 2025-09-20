@@ -11,14 +11,14 @@ layout: default
 
   {% if page.coverImage %}
   <figure class="post-cover" style="margin:0 0 1rem 0">
-    <img src="{{ page.coverImage | relative_url }}" alt="" style="max-width:100%;height:auto;border-radius:6px">
+    <img src="{{ page.coverImage | relative_url }}" alt="" style="width:100%;max-width:700px;height:auto;border-radius:6px">
   </figure>
   {% endif %}
 
 <style>
   .post-content img {
     display: block;
-    max-width: 500px;   /* 桌面端最多 500px 宽 */
+    max-width: 700px;   /* 桌面端最多 700px 宽 */
     width: 100%;        /* 默认占满容器，保证在手机上自适应 */
     height: auto;       /* 保持比例 */
     margin: 1rem auto;  /* 居中并上下留白 */
