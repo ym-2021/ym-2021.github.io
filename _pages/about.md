@@ -156,6 +156,26 @@ Across all these, my concern is how educational initiatives intersect with broad
 
 <!--
 # 📝 Publications 
+
+Book chapter
+- Ma, Y. *Practising global citizenship education through Model United Nations activities in China.* In W. Gaudelli \& R. Römhild (Eds.), *The Handbook of Global Citizenship Education.* Edward Elgar Publishing.
+
+Blogposts
+- [Building resilient communities for Postgraduate Research students](https://www.teaching-matters-blog.ed.ac.uk/building-resilient-communities-for-postgraduate-research-students/), Jul 2022
+- [Model United Nations and its educational significance for 11-year-olds](https://www.unhscotland.org.uk/post/model-united-nations-and-its-educational-significance-for-11-year-olds), Jun 2022
+
+
+Others
+- Donn, G., **Ma, Y.**, & Shono, H. (2025). Civil Society Engagement in Scotland with the Mission, Vision, Values and Goals of the United Nations. University of Edinburgh Journal, 52(1), 57–65.
+
+
+
+
+Global Education Digest 2025. Academic Network on Global Education & Learning (ANGEL). Development Education Research Centre, UCL Institute of Education.
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
