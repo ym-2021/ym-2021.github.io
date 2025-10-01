@@ -115,7 +115,7 @@ Across all these, my concern is how educational initiatives intersect with broad
 ## Seminars, invited talks, and workshops
 - *2025.06*, Final Panel: Reflections & Importance of Research for Policy ([video](https://www.youtube.com/watch?v=cBb8tgZ5Dzs&t=1s))  
   Academic Network of Global Education and Learning (ANGEL) Conference, Berlin
-- *2024.10*, Promoting Model United Nations in universities and schools. 
+- *2024.10*, Promoting Model United Nations in universities and schools  
   United Nations Association Northern Ireland, Belfast
 - *2024.06*, Prepatory workshop for MUN Conference  
   Aimed at Scottish students; organised by UNHS, Edinburgh
