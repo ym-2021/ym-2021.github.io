@@ -50,19 +50,19 @@ Across all these, my concern is how educational initiatives intersect with broad
   - Engaged with key anthropological and sociological concepts to examine identities, participation, and student agency
   - Conducted 9-month fieldwork at a Chinese secondary school, with research methods including Critical Discourse Analysis, participant observation, fieldnotes, semi-structured interviews, surveys and reflective journals
 
-- *2024 - 2025*, Research Assistant, College of Arts, Humanities and Social Sciences (CAHSS) Research Office, University of Edinburgh
+- *2024 - 2025*, Research Assistant, College of Arts, Humanities and Social Sciences (CAHSS) Research Office, University of Edinburgh  
 *Supporting ad hoc research projects across various schools within the College. Selected contributions include:*
-  - **Ethical Leadership Amid Precarity** | Sep 2025 - Jun 2026
+  - **Ethical Leadership Amid Precarity** (Sep 2025 - Jun 2026)
     - Conducted focus groups and semi-structured interviews with academics in precarious positions to explore understandings and practices of ethical leadership in higher education
     - Contributed to thematic analysis and report writing to inform the development of inclusive leadership resources and institutional policy recommendations
-  - **Creating a Curriculum Framework for Climate Literacy in Secondary Mathematics Education** | Apr – Jun 2025
+  - **Creating a Curriculum Framework for Climate Literacy in Secondary Mathematics Education** (Apr - Jun 2025)
     - Conducted a literature review on climate literacy and sustainability in mathematics education, producing a 1,300-word synthesis of current research and good practices
     - Proposed an engagement plan for collaboration with environmental organisations, and identified funding opportunities
-  - **Research Impact projects** | various
+  - **Research Impact projects** (various)
     - Collected and synthesised evidence of research impact with special focus on policy and public strands, and identified impact pathways as preparation for REF 2029 impact case studies
-  - **National Security Corpus and Dataset Project** | Apr - Sep 2024
-    - Processed a multilingual dataset of 575 policy documents, applying metadata standards, data ethics protocols, and supporting open access publication of the dataset (DOI: [10.7488/ds/7797]{https://doi.org/10.7488/ds/7904})
-  - **Discourses of Advertising Self-Regulation: A Pilot Project** | Mar - Apr 2024
+  - **National Security Corpus and Dataset Project** (Apr - Sep 2024)
+    - Processed a multilingual dataset of 575 policy documents, applying metadata standards, data ethics protocols, and supporting open access publication of the dataset (DOI: [10.7488/ds/7797](https://doi.org/10.7488/ds/7904}))
+  - **Discourses of Advertising Self-Regulation: A Pilot Project** (Mar - Apr 2024)
     - Catalogued and structured over 10,000 archival materials from a UK advertising agency to support qualitative analysis of self-regulation practices
 
 - *2018 - 2019*, Master's Dissertation: Implementing Model United Nations into Curriculum for Excellence
