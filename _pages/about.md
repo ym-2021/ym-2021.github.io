@@ -60,6 +60,7 @@ Across all these, my concern is how educational initiatives intersect with broad
     - Proposed an engagement plan for collaboration with environmental organisations, and identified funding opportunities
   - **Research Impact projects** (various)
     - Collected and synthesised evidence of research impact with special focus on policy and public strands, and identified impact pathways as preparation for REF 2029 impact case studies
+    - Conducted discourse analysis of 4-star impact case studies to create a practical guide of writing ICS
   - **National Security Corpus and Dataset Project** (Apr - Sep 2024)
     - Processed a multilingual dataset of 575 policy documents, applying metadata standards, data ethics protocols, and supporting open access publication of the dataset (DOI: [10.7488/ds/7797](https://doi.org/10.7488/ds/7904}))
   - **Discourses of Advertising Self-Regulation: A Pilot Project** (Mar - Apr 2024)
@@ -68,6 +69,8 @@ Across all these, my concern is how educational initiatives intersect with broad
 - *2018 - 2019*, Master's Dissertation: Implementing Model United Nations into Curriculum for Excellence
 
 # 👩🏻‍🏫 Teaching Experience {#teaching-experience}
+- *2026 - now*, Tutor, School of Social and Political Science, UoE
+  - *Understanding Race and Colonialism*
 - *2023 - now*, Postgradutate Teaching Assistant, Edinburgh Futures Institute, UoE
   - Assisted in the delivery of PG courses in hybrid formats, including: 
     - 2025-26: *Future of Learning Organisations; Future Governance; Narratives of Digital Capitalism; Coloniality of Data*
@@ -97,6 +100,7 @@ Across all these, my concern is how educational initiatives intersect with broad
 - **Ma, Y** (2026). *Practising global citizenship education through Model United Nations activities in China.* In W. Gaudelli & R. Römhild (Eds.), *The Handbook of Global Citizenship Education.* Edward Elgar Publishing.
 
 ## Blogposts
+- [Towards Publication: Supportive pathways to academic writing and publishing](https://blogs.ed.ac.uk/teaching-matters/towards-publication-supportive-pathways-to-academic-writing-and-publishing), Jan 2026
 - [Building resilient communities for Postgraduate Research students](https://www.teaching-matters-blog.ed.ac.uk/building-resilient-communities-for-postgraduate-research-students/), Jul 2022
 - [Model United Nations and its educational significance for 11-year-olds](https://www.unhscotland.org.uk/post/model-united-nations-and-its-educational-significance-for-11-year-olds), Jun 2022
 
@@ -165,13 +169,15 @@ Across all these, my concern is how educational initiatives intersect with broad
 
 
 # 🎖 Qualifications, Awards and Grants {#honours}
-- *2025.04*, Hybrid Teaching Assistant Edinburgh Award
-- *2024.11*, 'Towards Publication - a research writing support programme for staff and PGRs at Social Justice and Inclusion (SJI) Hub', funded by Student Partnership Agreement
-- *2024.06*, Associate Fellowship of Advance HE
-- *2024.01*, 'Expanding Model United Nations for Scottish Schools', funded by Foundation Scotland
-- *2023.10*, British Postgraduate Network for Chinese Studies PGR fellowship 
-- *2023.03*, Tweedie Research Fellowship 
-- *2022.06*, Digital Skills Specialist Edinburgh Award
+- *2026*, 'Building a postgraduate tutor community', funded by Student Experience Grant (lead applicant)
+- *2025*, 'Methodology Café', funded by Student Partnership Agreement (co-applicant)
+- *2025*, Hybrid Teaching Assistant Edinburgh Award
+- *2024*, 'Towards Publication - a research writing support programme for staff and PGRs at Social Justice and Inclusion (SJI) Hub', funded by Student Partnership Agreement (lead applicant)
+- *2024*, Associate Fellowship of Advance HE
+- *2024*, 'Expanding Model United Nations for Scottish Schools', funded by Foundation Scotland
+- *2023*, British Postgraduate Network for Chinese Studies PGR fellowship 
+- *2023*, Tweedie Research Fellowship 
+- *2022*, Digital Skills Specialist Edinburgh Award
 - *2018*, Outstanding Graduate of Beijing, awarded by Ministry of Education of China
 - *2016*, Overseas exchange programme to Canada, funded by China Scholarship Council
 - *2016*, China National Scholarship 
