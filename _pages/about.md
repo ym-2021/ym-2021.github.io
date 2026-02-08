@@ -106,7 +106,7 @@ Across all these, my concern is how educational initiatives intersect with broad
 
 ## Others
 - Donn, G., **Ma, Y.**, & Shono, H. (2025). Civil Society Engagement in Scotland with the Mission, Vision, Values and Goals of the United Nations. University of Edinburgh Journal, 52(1), 57–65.
-- Contributor to a forthcoming report: Global Education Digest 2025. Academic Network on Global Education & Learning (ANGEL). Development Education Research Centre, UCL Institute of Education.
+- Contributor to the Simplified Chinese section: Global Education Digest 2025. Academic Network on Global Education & Learning (ANGEL). Development Education Research Centre, UCL Institute of Education. [Link to report](https://discovery.ucl.ac.uk/id/eprint/10218935/).
 
 # 💬 Presentations {#presentations}
 ## Conferences
