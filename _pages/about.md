@@ -31,26 +31,26 @@ My research interest includes neural machine translation and computer vision. I 
 I built this page to record and reflect on my academic (and sometimes personal) journey. It is not meant to be a competition with others, but it's a reminder to myself that every step and experience matters. At the same time, I hope it also offers a glimpse into my work and interests for those who may be curious.
 
 # 👋 About me
-Hi there! I’m Yuemiao, a PhD candidate in Education at the University of Edinburgh, exploring (Global) Citizenship Education in Model United Nations (MUN). My journey with MUN started in secondary school - I’ve been a delegate, and now an organiser-teacher-researcher.  
+Hi there! I’m Dr Yuemiao Ma, and I recently completed my PhD in Education at the University of Edinburgh, where my research explored (Global) Citizenship Education in Model United Nations (MUN). My journey with MUN started in secondary school - I’ve been a delegate, and now an organiser-teacher-researcher.  
 
-I’m interested in (global) citizenship education, global/international education, and qualitative research methods. My master’s dissertation looked at MUN in Scotland and the Curriculum for Excellence, through a placement at [United Nations House Scotland (UNHS)](https://www.unhscotland.org.uk/). I’ve since stayed involved with UNHS, helping to bring MUN into more primary and secondary schools so that these opportunities reach students who may previously have had limited exposure to extracurricular programmes like MUN.  
+I’m interested in (global) citizenship education, global/international education, and qualitative research methods. My work is particularly informed by ethnographic fieldwork, discourse analysis, and participatory approaches to educational research. My master’s dissertation looked at MUN in Scotland and the Curriculum for Excellence, through a placement at [United Nations House Scotland (UNHS)](https://www.unhscotland.org.uk/). I’ve since stayed involved with UNHS, helping to bring MUN into more primary and secondary schools so that these opportunities reach students who may previously have had limited exposure to extracurricular programmes like MUN.  
 
 Across all these, my concern is how educational initiatives intersect with broader questions of inclusion and participation, which is a thread tying all my work, research, education and personal life. 
 
 # 📖 Education {#education}
-- *2021 - 2025 (now)*, PhD in Education, University of Edinburgh. 
+- *2021 - 2026*, PhD in Education, University of Edinburgh. 
 - *2018 - 2019*, MSc in Education (Comparative Education and International Development), University of Edinburgh.
 - *2014 - 2018*, University of International Business and Economics, Beijing
   -   BA in Translation and Interpretation
   -   BEcon in Finance
 
 # 💻 Research Experience {#research-experience}
-- *2021 - 2025*, PhD Thesis: (Global) Citizenship Education Embedded in Model United Nations Activities - An Ethnographic Case Study of a Secondary School in China
+- *2021 - 2026*, Doctoral Research: (Global) Citizenship Education Embedded in Model United Nations Activities - An Ethnographic Case Study of a Secondary School in China
   - Reviewed literature on (Global) Citizenship Education, drawing on critical and discursive perspectives to explore how citizenship is shaped by discourses in particular cultural and institutional contexts
   - Engaged with key anthropological and sociological concepts to examine identities, participation, and student agency
   - Conducted 9-month fieldwork at a Chinese secondary school, with research methods including Critical Discourse Analysis, participant observation, fieldnotes, semi-structured interviews, surveys and reflective journals
 
-- *2024 - 2025*, Research Assistant, College of Arts, Humanities and Social Sciences (CAHSS) Research Office, University of Edinburgh  
+- *2024 - now*, Research Assistant, College of Arts, Humanities and Social Sciences (CAHSS) Research Office, University of Edinburgh  
 *Supporting ad hoc research projects across various schools within the College. Selected contributions include:*
   - **Ethical Leadership Amid Precarity** (Sep 2025 - Jun 2026)
     - Conducted focus groups and semi-structured interviews with academics in precarious positions to explore understandings and practices of ethical leadership in higher education
@@ -71,28 +71,37 @@ Across all these, my concern is how educational initiatives intersect with broad
 # 👩🏻‍🏫 Teaching Experience {#teaching-experience}
 - *2026 - now*, Tutor, School of Social and Political Science, UoE
   - *Understanding Race and Colonialism*
-- *2023 - now*, Postgradutate Teaching Assistant, Edinburgh Futures Institute, UoE
+  - Facilitated weekly undergraduate tutorials through interactive activities such as role play, case studies, and reflective writing
+- *2023 - 2026*, Postgraduate Teaching Assistant, Edinburgh Futures Institute, UoE
   - Assisted in the delivery of PG courses in hybrid formats, including: 
     - 2025-26: *Future of Learning Organisations; Future Governance; Narratives of Digital Capitalism; Coloniality of Data*
     - 2024-25: *Future of Learning Organisations; Coloniality of Data; Future Food Systems*
     - 2023-24: *Knowledge Integration and Project Planning; Culture, Heritage and Learning Futures*
+  - Facilitated discussions in both online and in-person formats, and supported students through hybrid teaching environments
   - Received the **Edinburgh Award (Hybrid Teaching)** in recognition of effective use of digital tools in blended learning environments
 - *2023 - 2024*, Postgraduate Tutor, Moray House School of Education and Sport, UoE
-  - *The Anthropology of Education and Learning*
-  - Master's dissertations
+  - Led workshops for *The Anthropology of Education and Learning*
+  - Supervised postgraduate dissertations, supported research proposals and ethics applications, and contributed to dissertation moderation
+  - Contributed to formative and summative assessment, including marking and internal moderation
   - Awarded **Associate Fellowship (AFHEA)** following completion of the *Introduction to Academic Practice (IntroAP)* course
+- *2023 - 2024*, Course Facilitator, Institute for Academic Development, UoE
+  - *Getting Started with Postgraduate Research*
+  - Supported an asynchronous online course for new postgraduate researchers, facilitating discussion and signposting academic support
 - *2020 - 2021*, English as a Second Language (ESL) Teacher for IELTS
 
 # 🔖 Other Professional and Administrative Experience {#other-experience}
 - *2024 - 2025*, Project lead, Towards Publication: progressing work seminars and writing retreat
   - Led the planning and delivery of a five-session seminar series and a one-day writing retreat for PGRs and staff at Social Justice and Inclusion Thematic Hub, such as coordinating logistics, confirming guest speakers and topics, and managing budget
 - *2021 - now*, Co-coordinator of Model United Nations project, [United Nations House Scotland](https://www.unhscotland.org.uk/)
-  - Organised Model UN conferences for primary and secondary school students in Scotland, in Jun 2021, Jun 2022, Jun 2024, Feb 2025, Sep 2025
-  - Moderated Model UN workshops for teachers and students, in May 2022, Nov 2022, Nov 2023, May 2024
+  - Organised Model UN conferences for primary and secondary school students in Scotland
+  - Moderated Model UN workshops for teachers and students
+  - Helped secure project funding from Foundation Scotland to support the expansion of MUN activities in Scottish schools
   - Supported the establishment of MUN clubs in various schools in/around Edinburgh
+- *2024 - 2025*, Facilitator of Early Career Researcher (ECR) Network, Academic Network of Global Education and Learning (ANGEL)
+  - Co-organised events to support early career researchers in global education, including the 2024 online conference and 2025 ECR Day in Berlin
 - *2022 - 2024*, Associate Officers for Student Engagement (formerly Postgraduate Research Student representative), [Scottish Graduate School of Social Sciences (SGSSS)](https://www.sgsss.ac.uk/)
   - Organised annual student-led symposium
-  - Developed a [wellbeing toolkit for PGRs](https://www.sgsss.ac.uk/student-wellbeing/ )
+  - Initiated and developed a [wellbeing toolkit for PGRs](https://www.sgsss.ac.uk/student-wellbeing/ )
 - *2022.03 - 2022.07*, Building Communities PhD Intern, UoE
 
 # 📝 Publications {#publications}
@@ -108,8 +117,13 @@ Across all these, my concern is how educational initiatives intersect with broad
 - Donn, G., **Ma, Y.**, & Shono, H. (2025). Civil Society Engagement in Scotland with the Mission, Vision, Values and Goals of the United Nations. University of Edinburgh Journal, 52(1), 57–65.
 - Contributor to the Simplified Chinese section: Global Education Digest 2025. Academic Network on Global Education & Learning (ANGEL). Development Education Research Centre, UCL Institute of Education. [Link to report](https://discovery.ucl.ac.uk/id/eprint/10218935/).
 
+
 # 💬 Presentations {#presentations}
 ## Conferences
+- *2026.03*, 'Decision about establishing positionality: negotiating self-presentation and authority in ethnographic fieldwork'  
+  British Education Research Association (BERA) ECR Conference, Birmingham
+- *2026.03*, 'Ethical Leadership Amid Precarity'  
+  InFrame Symposium at Scottish Research Culture & Integrity Week, online
 - *2025.09*, 'Writing as a reflexive practice across boundaries'  
   British Association of International and Comparative Education (BAICE) ECR Conference, online
 - *2025.09*, 'Addressing the Implementation of UN SDGs from Active Civil Society Engagement'  
@@ -144,7 +158,7 @@ Across all these, my concern is how educational initiatives intersect with broad
   Academic Network of Global Education and Learning (ANGEL) Conference, Berlin
 - *2024.10*, Promoting Model United Nations in universities and schools  
   United Nations Association Northern Ireland, Belfast
-- *2024.06*, Prepatory workshop for MUN Conference  
+- *2024.06*, Preparatory workshop for MUN Conference  
   Aimed at Scottish students; organised by UNHS, Edinburgh
 - *2024.02*, Global Citizenship Education embedded in Model United Nations (MUN) activities  
   British Postgraduate Network of Chinese Studies (BPCS) Fellowship Seminar, online
@@ -169,12 +183,13 @@ Across all these, my concern is how educational initiatives intersect with broad
 
 
 # 🎖 Qualifications, Awards and Grants {#honours}
-- *2026*, 'Building a postgraduate tutor community', funded by Student Experience Grant (lead applicant)
+- *2026*, 'Exploring and Addressing Participation Barriers in School MUN Clubs: A Participatory Action Research Pilot', funded by Moray Endowment Funding
+- *2026*, 'Building a postgraduate tutor community', funded by Student Experience Grant
 - *2025*, 'Methodology Café', funded by Student Partnership Agreement (co-applicant)
 - *2025*, Hybrid Teaching Assistant Edinburgh Award
 - *2024*, 'Towards Publication - a research writing support programme for staff and PGRs at Social Justice and Inclusion (SJI) Hub', funded by Student Partnership Agreement (lead applicant)
 - *2024*, Associate Fellowship of Advance HE
-- *2024*, 'Expanding Model United Nations for Scottish Schools', funded by Foundation Scotland
+- *2024*, 'Expanding Model United Nations for Scottish Schools', funded by Foundation Scotland (co-applicant)
 - *2023*, British Postgraduate Network for Chinese Studies PGR fellowship 
 - *2023*, Tweedie Research Fellowship 
 - *2022*, Digital Skills Specialist Edinburgh Award
